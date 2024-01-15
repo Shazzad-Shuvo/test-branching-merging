@@ -1,0 +1,2 @@
+I wish to try github branching and merging
+This is a text file for storing in a github repo
